@@ -1,0 +1,3 @@
+To get the game started, venv needs to be up and running:
+    source venv/bin/activate
+
